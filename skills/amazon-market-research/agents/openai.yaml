@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊类目市场调研"
+  short_description: "逐步确认完成类目市场分析、商品打标、流量竞争研究与新品推广及利润模型"
+  default_prompt: "使用 $amazon-market-research，按八步工作流带我完成亚马逊类目市场调研，每完成一步先询问是否继续。"
